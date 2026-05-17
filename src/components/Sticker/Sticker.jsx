@@ -12,5 +12,5 @@ render(){
   )
 }
 }
-
+// ff
 export default Sticker
